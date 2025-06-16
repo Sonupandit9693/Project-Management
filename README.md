@@ -45,19 +45,6 @@ A comprehensive Project Management System developed in **Java Spring Boot** to s
 
    *(Or run the generated JAR file in the `target` directory)*
 
-## Screenshots
-
-_Add screenshots or GIFs here to showcase the application UI and features._
-
-## Why Add This To Your Resume/Portfolio?
-
-- **Demonstrates proficiency in Java, Spring Boot, and software architecture.**
-- **Showcases experience in building real-world, multi-user systems.**
-- **Highlights teamwork, planning, and project tracking capabilities.**
-- **Practical example of full-stack development and deployment.**
-
-## License
-
 This project is licensed under the MIT License.
 
 ---
